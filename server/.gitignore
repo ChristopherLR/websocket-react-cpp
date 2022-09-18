@@ -1,0 +1,7 @@
+# IDE
+.cache
+
+# Server
+bin/*
+build/*
+
